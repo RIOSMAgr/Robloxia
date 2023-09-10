@@ -1,3 +1,7 @@
+#DISCLAIMER - Do not trust any version of robloxia only githubs.
+
+Always scan suspicious files an dont download any mod packs for robloxia outside of this github.
+
 # Robloxia - Roblox Mod Menu Injector
 
 Robloxia is a powerful modding tool for Roblox that comes pre-loaded with a variety of mods, including features like enhanced run speed and jump height, which work in most servers.
